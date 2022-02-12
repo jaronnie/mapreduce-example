@@ -10,3 +10,5 @@ mapreduce
 * Mapper: 数据加工
 * Reducer: 数据聚合
 
+channel + goroutine 结合
+
